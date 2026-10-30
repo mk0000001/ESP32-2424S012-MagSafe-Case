@@ -16,3 +16,9 @@
 슬라이서에서 나사산·홈·USB-C 안쪽 창에 의도하지 않은 서포트가 들어가는지 미리 확인한다. 조립 전 나사산과 기둥 머리의 실밥·버를 정리한다. 조임 툴은 손으로 쓰며 전동 공구에 물리지 않는다.
 
 FreeCAD의 반투명 표시와 참고 배터리/자석은 설명용이다. 출력 파일은 `print/V18/`의 6개 STL이다.
+
+## English
+
+Print one of each of the six listed files at 100% scale in the stored orientation. V17 users only need to reprint BODY and BATTERY_TRAY_INNER; the other four shapes are unchanged. Five parts remain in the case; RING_TOOL is a reusable assembly tool.
+
+Start with PLA, 0.4 mm nozzle, 0.2 mm layers and at least four walls. Print the tool with its broad T handle on the bed and start around 40% infill. The tool is designed without supports, but check bridging and unwanted supports in the threads, slots and USB window in your slicer. Remove burrs and stringing before assembly. Tighten by hand; do not use a power tool. Reference batteries, magnets and transparent display settings in FreeCAD are explanatory. Print the six files in print/V18/.

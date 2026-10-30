@@ -1,0 +1,69 @@
+1
+00:00:00,000 --> 00:00:03,400
+보드를 본체 안에 넣기
+Seat the module in the body
+
+2
+00:00:03,400 --> 00:00:06,800
+보드 받침틀 넣기
+Fit the board support frame
+
+3
+00:00:06,800 --> 00:00:09,800
+나사 링을 나사산에 맞추기
+Start the retaining ring by hand
+
+4
+00:00:09,800 --> 00:00:12,800
+3점 조임 툴 끼우기
+Engage the three point tool
+
+5
+00:00:12,800 --> 00:00:17,400
+링을 돌려 보드 고정
+Tighten the board retaining ring
+
+6
+00:00:17,400 --> 00:00:20,600
+조임 툴 빼기
+Remove the tightening tool
+
+7
+00:00:20,600 --> 00:00:23,800
+받침판 아래쪽에 자석 붙이기
+Bond the magnet under the tray
+
+8
+00:00:23,800 --> 00:00:27,200
+큰 구멍으로 기둥 머리 통과
+Pass the post heads through the holes
+
+9
+00:00:27,200 --> 00:00:30,400
+안쪽 받침판 잠그기
+Lock the inner battery tray
+
+10
+00:00:30,400 --> 00:00:33,800
+배터리를 가이드 안에 넣기
+Place the battery inside the guide
+
+11
+00:00:33,800 --> 00:00:37,100
+배터리 연결과 전선 정리
+Connect the battery and route the leads
+
+12
+00:00:37,100 --> 00:00:40,500
+뚜껑 전체를 본체에 넣기
+Insert the complete lid
+
+13
+00:00:40,500 --> 00:00:43,700
+뚜껑 전체를 돌려 잠그기
+Rotate the complete lid to lock
+
+14
+00:00:43,700 --> 00:00:46,900
+V18 조립 완료
+V18 assembly complete

@@ -1,0 +1,13 @@
+{
+  "language_order": [
+    "ko",
+    "en"
+  ],
+  "native_frames": 157,
+  "duration_ms": 46900,
+  "video_full_decode_return_code": 0,
+  "cad_geometry_modified": false,
+  "caption_stages": 14,
+  "inner_tray": "clockwise 10 degrees viewed into detached lid",
+  "outer_lid": "clockwise 20 degrees viewed from device rear"
+}

@@ -1,5 +1,6 @@
 {
   "version": 18,
+  "documentation_update": "2026-10-31",
   "files": {
     ".gitignore": {
       "bytes": 70,
@@ -102,19 +103,19 @@
       "git_blob_sha1": "2230138070a375c0ca44f14c970db570581bc2be"
     },
     "CHANGELOG.md": {
-      "bytes": 819,
-      "sha256": "46144db3d607d1197aa426555efcfdec30f41de9e0f3e7589bb3a9cc2c4e8788",
-      "git_blob_sha1": "698c366463124291d2e367d1972fdaf5173588fe"
+      "bytes": 1521,
+      "sha256": "5cc24fb4be97ba5ad39fee2ceb6b4212816a5288055fc66d4092de13e929d2d1",
+      "git_blob_sha1": "d83ea0740565b025c9d6656776238b80ccc928c3"
     },
     "docs/ASSEMBLY.ko.md": {
-      "bytes": 2128,
-      "sha256": "7c819657949b21be236d69e2289454ec3f781a6a374d9b2c43657cfa939a8de4",
-      "git_blob_sha1": "fe6c995fbc9cc08303f2e24bbf4117c923d9402f"
+      "bytes": 4440,
+      "sha256": "fedd2653bab995f2f46bc4427a2e084fcb0f1b9e760737912760eedb18d0e899",
+      "git_blob_sha1": "029cf1b38fde5e91e96901a43567db45e231f401"
     },
     "docs/PRINTING.ko.md": {
-      "bytes": 1398,
-      "sha256": "ec8a8bbdc564898ff3ad47c29e484a55220035a3467670a6ef9a8e1d6524175c",
-      "git_blob_sha1": "403a07f594aa1a5445531297fb78091232569c69"
+      "bytes": 2155,
+      "sha256": "0db1cf6f1f94ff2b39bc3c0cd2bf3cd2c6564768d4025bb178c1b39b5f977db5",
+      "git_blob_sha1": "3893f4018f6e133b49b9d411fefe09dd1bd644de"
     },
     "docs/V18_CHANGES.ko.md": {
       "bytes": 1324,
@@ -237,19 +238,24 @@
       "git_blob_sha1": "8890cedaa9adee56fae143c239e7ea5a2db006c3"
     },
     "media/V18/assembly-summary.png": {
-      "bytes": 532536,
-      "sha256": "a352f739bacf4c21f7b8f4abd339b00a1dbce8fc0bcb3fe1241ad08c2bf27028",
-      "git_blob_sha1": "ec48cd72debabd4e6cada5c1dd0333b4aafc9de9"
+      "bytes": 463937,
+      "sha256": "604ab433a963077bcb8986bf598f6d12eb169041e0264fd9df757e8f561234ec",
+      "git_blob_sha1": "511158189739f1c518a89a8ad8702a51549d9acb"
     },
     "media/V18/assembly.gif": {
-      "bytes": 12687819,
-      "sha256": "46f5f9b91730e0f465fe027c61ddf5b6839a13c811100b7debb95c9f46d79a19",
-      "git_blob_sha1": "12dc3131d73ad7009a1c3b7673726ecd46f816f4"
+      "bytes": 12303154,
+      "sha256": "0b0fe0da054ceb1435748753a5cce5b95dd5e4b8374e71a5037aaef7d5ed415c",
+      "git_blob_sha1": "a850a107da7679c392f33f7c347da0c529369438"
+    },
+    "media/V18/assembly.ko-en.srt": {
+      "bytes": 1319,
+      "sha256": "de8be95aef26ae664e1d6aa44de22b2cb8daae2f3a4548bb4e0a2a86db0efa91",
+      "git_blob_sha1": "a13b4e8dee77475778327b0b431930151202824c"
     },
     "media/V18/assembly.mp4": {
-      "bytes": 1386296,
-      "sha256": "bdaeb0192a0c40e9bf4f7703448c6e9875c6808ab03568de8004050105c7c960",
-      "git_blob_sha1": "0761d73727c4ccc86434383643894ef87003b7e7"
+      "bytes": 1417474,
+      "sha256": "7634cb7d02b320e0c0528f5205148bbf135bf874732db9e78a89026f6548762b",
+      "git_blob_sha1": "d88a6e39086cef7005c37c8e8b0b62c6212f2998"
     },
     "media/V18/assembly.png": {
       "bytes": 6437,
@@ -267,9 +273,9 @@
       "git_blob_sha1": "74ca59251d3417c2263f873d93661cbb73446502"
     },
     "media/V18/README.md": {
-      "bytes": 83,
-      "sha256": "ada52c651236c1fd33fc9a208c1f210b2e2dadc86b2d379e44e7b52f893efca4",
-      "git_blob_sha1": "0e6db849d8b345653fc12ac96c3fd2e701e32728"
+      "bytes": 456,
+      "sha256": "3805e79d2c546c3a51689213560a6e87df58c174c964ee730d259bd3ab45bef2",
+      "git_blob_sha1": "df72d044db35af9ccad7b29f6e30dd9c893ef7f2"
     },
     "media/V18/usb-shield.png": {
       "bytes": 23578,
@@ -312,9 +318,24 @@
       "git_blob_sha1": "72a9767fc1686edd918edb6c2f50d31ee501bf11"
     },
     "README.md": {
-      "bytes": 3822,
-      "sha256": "e57f5653176701c81ff12ff7bd906da2aec4329b04a46fbec7b05672da0f3026",
-      "git_blob_sha1": "387b97a453faaa9d4a19481d2c5a305df1c59e12"
+      "bytes": 8319,
+      "sha256": "0cc80b5cc78f9205e8e2602ecbfe604704389a402af9f15fbda36d3e47575fa7",
+      "git_blob_sha1": "65b2d51ddc38d0b608130a822221e465c0330e98"
+    },
+    "reports/V18/ESP32-2424S012_V18_PROJECT_REPORT_KO_EN.pdf": {
+      "bytes": 458929,
+      "sha256": "2c1365c372924936d5e9c90dffa21a926c48c092dfc29ff277dcbb108809ae24",
+      "git_blob_sha1": "a07109606b2c405f1d80fc83a484d30fa0b82cc0"
+    },
+    "reports/V18/PROJECT_REPORT.ko-en.md": {
+      "bytes": 19630,
+      "sha256": "57eb44a17460d064ceed2e87f0dded20f8f84872381addcf5f7349a91781dc2c",
+      "git_blob_sha1": "1a246d39f104db1a1f93f432f1be379a3c666847"
+    },
+    "reports/V18/README.md": {
+      "bytes": 644,
+      "sha256": "4544ca9d0b35a1d7ea3710065416ab6eee5d5a88ded9a862cf6705a78956e2cd",
+      "git_blob_sha1": "003a993a7e720421f8528c3e9e6c298e61896f50"
     },
     "source/freecad/build_v18.py": {
       "bytes": 9025,
@@ -332,9 +353,14 @@
       "git_blob_sha1": "56bcd8fda860618132dbb82fcfda13e635c06819"
     },
     "validation/V18/verification_animation.json": {
-      "bytes": 1278,
-      "sha256": "b760dad8096bcc71ef19e4b281dbdd52fedb74df903c1ba2604854ea50655889",
-      "git_blob_sha1": "fd3795005ce87a98680ed100f4923abf554edd8e"
+      "bytes": 1023,
+      "sha256": "e6c3530c426204aa7b9acae3cb8af13491ea3b6bd26d35b7c931d15bba1d0446",
+      "git_blob_sha1": "db6eccdcbb5746830e2619aa0c4f120acc8cf520"
+    },
+    "validation/V18/verification_animation_ko_en.json": {
+      "bytes": 321,
+      "sha256": "d6f69a19d4d2c6de5f543c6818a5eea9d6c16dc59e58075eb64ce3e328b5839e",
+      "git_blob_sha1": "dfce710ef9a4fbfc0ed6a60c46e02dae9d9394ff"
     },
     "validation/V18/verification_native.json": {
       "bytes": 12767,
@@ -345,6 +371,11 @@
       "bytes": 1159,
       "sha256": "1d6a8a2f76d8844de2d7bff0bb375038208b2784d378edd9e5d9c89c6b4bd8be",
       "git_blob_sha1": "765219723a57b4a30da6cd765b376fe2849a83cc"
+    },
+    "validation/V18/verification_report_ko_en.json": {
+      "bytes": 307,
+      "sha256": "ac2831a96b6cb711bbc8fcdc21351daf5603db6584a1c63c3e174363c6af0383",
+      "git_blob_sha1": "ae971f7892116ad987eb87feafd8a79da4650895"
     },
     "validation/V18/verification_STL.json": {
       "bytes": 2072,

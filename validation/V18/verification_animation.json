@@ -1,56 +1,38 @@
 {
-  "native_frame_count": 157,
-  "gif_frame_count": 157,
-  "gif_duration_ms": 36200,
-  "video_frame_count": 724,
-  "video_duration_seconds": 36.2,
+  "language_order": [
+    "ko",
+    "en"
+  ],
+  "native_frames": 157,
+  "duration_ms": 46900,
+  "video_full_decode_return_code": 0,
+  "cad_geometry_modified": false,
+  "caption_stages": 14,
+  "inner_tray": "clockwise 10 degrees viewed into detached lid",
+  "outer_lid": "clockwise 20 degrees viewed from device rear",
   "video_size": [
     1000,
-    1000
+    1120
   ],
-  "video_full_decode_return_code": 0,
-  "inner_tray_lock_view": "clockwise 10 degrees when looking into the lid from +Z",
-  "inner_tray_model_angle_degrees": [
-    10,
-    0
-  ],
-  "main_cap_lock_view": "clockwise 20 degrees when looking at the device rear from -Z",
-  "main_cap_model_angle_degrees": [
-    -20,
-    0
-  ],
-  "board_and_socket_are_explanatory_envelopes": true,
-  "sticker_attachment_is_to_tray_underside": true,
-  "connector_connection_is_labelled_but_not_mechanically_animated": true,
-  "production_cad_and_print_meshes_modified": false,
-  "crop_bounds_per_chapter": {
-    "board": [
-      251,
-      51,
-      750,
-      704
-    ],
-    "cap": [
-      235,
-      138,
-      772,
-      654
-    ],
-    "closure": [
-      268,
-      98,
-      727,
-      653
-    ]
-  },
+  "video_duration_seconds": 46.9,
+  "video_frame_count": 938,
+  "gif_frame_count": 157,
   "files": {
-    "V18_조립순서.gif": {
-      "bytes": 12687819,
-      "sha256": "46f5f9b91730e0f465fe027c61ddf5b6839a13c811100b7debb95c9f46d79a19"
+    "assembly.mp4": {
+      "bytes": 1417474,
+      "sha256": "7634cb7d02b320e0c0528f5205148bbf135bf874732db9e78a89026f6548762b"
     },
-    "V18_조립순서.mp4": {
-      "bytes": 1386296,
-      "sha256": "bdaeb0192a0c40e9bf4f7703448c6e9875c6808ab03568de8004050105c7c960"
+    "assembly.gif": {
+      "bytes": 12303154,
+      "sha256": "0b0fe0da054ceb1435748753a5cce5b95dd5e4b8374e71a5037aaef7d5ed415c"
+    },
+    "assembly.ko-en.srt": {
+      "bytes": 1319,
+      "sha256": "de8be95aef26ae664e1d6aa44de22b2cb8daae2f3a4548bb4e0a2a86db0efa91"
+    },
+    "assembly-summary.png": {
+      "bytes": 463937,
+      "sha256": "604ab433a963077bcb8986bf598f6d12eb169041e0264fd9df757e8f561234ec"
     }
   }
 }

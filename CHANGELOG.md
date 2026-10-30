@@ -1,5 +1,19 @@
 # 변경 이력
 
+## V18 문서 보완 · 2026-10-31
+
+- 10쪽 한국어 다음 영어 프로젝트 보고서 추가.
+- 조립 설명과 약 47초 애니메이션 자막을 한국어 → 영어 순서로 정리.
+- 저장소 공개 전환, 보고서 포함 최신 전체 묶음을 V18 릴리스와 NAS에 추가.
+- CAD와 출력 STL 형상은 변경하지 않음.
+
+## V18 documentation update · 2026-10-31
+
+- Added a ten-page project report with Korean followed by English.
+- Updated assembly instructions and approximately 47-second animation captions in the same language order.
+- Made the repository public and added an updated complete package to the V18 release and NAS.
+- CAD and print STL geometry are unchanged.
+
 ## V18 · 2026-10-30
 
 - 배터리 받침 돌기 +0.5mm, 가이드50.6×30.6mm / 높이3.2mm.
