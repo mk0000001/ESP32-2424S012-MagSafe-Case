@@ -1,0 +1,50 @@
+{
+  "original_archive": "1.28inch_ESP32-2424S012.zip",
+  "archive_bytes": 118417978,
+  "archive_sha256": "f022b3521cba9ca64c6d6df668848052ca1120043908da91fbc461b1f77b55a6",
+  "archive_member_count": 2746,
+  "selected_unmodified_members": [
+    {
+      "path": "hardware/ESP32-2424S012/vendor/2-Specification/ESP32-2424S012 Specifications-EN.pdf",
+      "archive_member": "1.28inch_ESP32-2424S012/2-Specification/ESP32-2424S012 Specifications-EN.pdf",
+      "sha256": "d70f3d75a46115c7e0cedfccf6f00d5d64c5624ba2108b3dc928fc43ac20b5ca",
+      "bytes": 769829
+    },
+    {
+      "path": "hardware/ESP32-2424S012/vendor/3-Structure_Diagram/1.JPG",
+      "archive_member": "1.28inch_ESP32-2424S012/3-Structure_Diagram/1.JPG",
+      "sha256": "0fc05439b6c40fb5c2a2dbd4297b648d55101f95cdfccc518618bf69981764dd",
+      "bytes": 185786
+    },
+    {
+      "path": "hardware/ESP32-2424S012/vendor/3-Structure_Diagram/2.jpg",
+      "archive_member": "1.28inch_ESP32-2424S012/3-Structure_Diagram/2.jpg",
+      "sha256": "41f5d0eef3e10d5f130e10174c1204347b5b85f6a7da006f4f2a430f43228091",
+      "bytes": 275922
+    },
+    {
+      "path": "hardware/ESP32-2424S012/vendor/4-Driver_IC_Data_Sheet/esp32-c3-mini-1_datasheet_en.pdf",
+      "archive_member": "1.28inch_ESP32-2424S012/4-Driver_IC_Data_Sheet/esp32-c3-mini-1_datasheet_en.pdf",
+      "sha256": "2c7ec81e3a4d189e85e25a9f02365d9272de6bcd0609f20ab378f3e0c392caff",
+      "bytes": 911284
+    },
+    {
+      "path": "hardware/ESP32-2424S012/vendor/5-Schematic/ESP32-2424S012-V1.0.png",
+      "archive_member": "1.28inch_ESP32-2424S012/5-Schematic/ESP32-2424S012-V1.0.png",
+      "sha256": "eae43bf8568e3360429fe39b1dc15b6c747cb4bd78d0594f7639cbeaa2c97f4e",
+      "bytes": 105538
+    },
+    {
+      "path": "hardware/ESP32-2424S012/vendor/5-Schematic/ESP32-C3-MINI-1U.jpg",
+      "archive_member": "1.28inch_ESP32-2424S012/5-Schematic/ESP32-C3-MINI-1U.jpg",
+      "sha256": "7cb0690bdc00b0ab805baaf40cc97507ab1695af05aa197428e31800bcc28f0e",
+      "bytes": 102918
+    },
+    {
+      "path": "hardware/ESP32-2424S012/vendor/6-User_Manual/Getting started 1.28 Inch.pdf",
+      "archive_member": "1.28inch_ESP32-2424S012/6-User_Manual/Getting started 1.28 Inch.pdf",
+      "sha256": "1787abb4eb419b27da7b64222dc8e26497a6868a589dd108f7cea376ae257133",
+      "bytes": 5309369
+    }
+  ]
+}

@@ -1,0 +1,571 @@
+{
+  "version": 18,
+  "base_version": 17,
+  "changes": {
+    "battery_pad_height_increase_mm": 0.5,
+    "battery_guide_inner_mm": [
+      50.6,
+      30.6
+    ],
+    "battery_guide_total_height_mm": 3.2,
+    "battery_vertical_free_travel_mm": 0.3,
+    "usb_shield_back_y_mm": 20.2,
+    "usb_shield_front_y_mm": 21.4,
+    "usb_shield_thickness_mm": 1.2,
+    "usb_shield_window_mm": [
+      10.6,
+      5.2
+    ],
+    "usb_shield_side_wall_nominal_mm": 1.6,
+    "usb_shield_bottom_z_mm": -4.8,
+    "usb_outer_cable_recess_mm": [
+      17,
+      10.7
+    ],
+    "usb_small_clearance_to_ring_mm": 0.4,
+    "usb_socket_face_assumed_y_mm": 22.0,
+    "usb_socket_clearance_each_side_mm": 0.6
+  },
+  "battery_measured_mm": [
+    50,
+    30,
+    5
+  ],
+  "battery_reference_back_z_mm": -17.3,
+  "battery_is_not_compressed": true,
+  "physical_validation": "CAD only; user reports V17 loose battery and exposed PCB at USB. V18 has not been printed.",
+  "reprint_changed_parts": [
+    "BODY",
+    "BATTERY_TRAY_INNER"
+  ],
+  "unchanged_from_v17": [
+    "BOARD_SUPPORT_FRAME",
+    "SCREW_RETAINING_RING_3POINT",
+    "MAGSAFE_OUTER_LID",
+    "RING_TOOL_3POINT"
+  ],
+  "assembly_overlaps_mm3": {
+    "BODY__BOARD_SUPPORT_FRAME": 0.0,
+    "BODY__SCREW_RETAINING_RING_3POINT": 0.0,
+    "BODY__MAGSAFE_OUTER_LID": 0.0,
+    "BODY__BATTERY_TRAY_INNER": 0.0,
+    "BOARD_SUPPORT_FRAME__SCREW_RETAINING_RING_3POINT": 0.0,
+    "BOARD_SUPPORT_FRAME__MAGSAFE_OUTER_LID": 0.0,
+    "BOARD_SUPPORT_FRAME__BATTERY_TRAY_INNER": 0.0,
+    "SCREW_RETAINING_RING_3POINT__MAGSAFE_OUTER_LID": 0.0,
+    "SCREW_RETAINING_RING_3POINT__BATTERY_TRAY_INNER": 0.0,
+    "MAGSAFE_OUTER_LID__BATTERY_TRAY_INNER": 0.0
+  },
+  "reference_overlaps_mm3": {
+    "battery__BODY": 0.0,
+    "battery__BOARD_SUPPORT_FRAME": 0.0,
+    "battery__SCREW_RETAINING_RING_3POINT": 0.0,
+    "battery__MAGSAFE_OUTER_LID": 0.0,
+    "battery__BATTERY_TRAY_INNER": 0.0,
+    "magnet__BODY": 0.0,
+    "magnet__BOARD_SUPPORT_FRAME": 0.0,
+    "magnet__SCREW_RETAINING_RING_3POINT": 0.0,
+    "magnet__MAGSAFE_OUTER_LID": 0.0,
+    "magnet__BATTERY_TRAY_INNER": 0.0,
+    "wire__BODY": 0.0,
+    "wire__BOARD_SUPPORT_FRAME": 0.0,
+    "wire__SCREW_RETAINING_RING_3POINT": 0.0,
+    "wire__MAGSAFE_OUTER_LID": 0.0,
+    "wire__BATTERY_TRAY_INNER": 0.0
+  },
+  "full_plug_insertion_poses": [
+    {
+      "front_y": 21.8,
+      "dx": -0.6,
+      "dz": -0.8,
+      "overlap_mm3": {
+        "BODY": 0.0,
+        "BOARD_SUPPORT_FRAME": 0.0,
+        "SCREW_RETAINING_RING_3POINT": 0.0,
+        "MAGSAFE_OUTER_LID": 0.0,
+        "BATTERY_TRAY_INNER": 0.0
+      }
+    },
+    {
+      "front_y": 21.8,
+      "dx": -0.6,
+      "dz": 0,
+      "overlap_mm3": {
+        "BODY": 0.0,
+        "BOARD_SUPPORT_FRAME": 0.0,
+        "SCREW_RETAINING_RING_3POINT": 0.0,
+        "MAGSAFE_OUTER_LID": 0.0,
+        "BATTERY_TRAY_INNER": 0.0
+      }
+    },
+    {
+      "front_y": 21.8,
+      "dx": -0.6,
+      "dz": 0.8,
+      "overlap_mm3": {
+        "BODY": 0.0,
+        "BOARD_SUPPORT_FRAME": 0.0,
+        "SCREW_RETAINING_RING_3POINT": 0.0,
+        "MAGSAFE_OUTER_LID": 0.0,
+        "BATTERY_TRAY_INNER": 0.0
+      }
+    },
+    {
+      "front_y": 21.8,
+      "dx": 0,
+      "dz": -0.8,
+      "overlap_mm3": {
+        "BODY": 0.0,
+        "BOARD_SUPPORT_FRAME": 0.0,
+        "SCREW_RETAINING_RING_3POINT": 0.0,
+        "MAGSAFE_OUTER_LID": 0.0,
+        "BATTERY_TRAY_INNER": 0.0
+      }
+    },
+    {
+      "front_y": 21.8,
+      "dx": 0,
+      "dz": 0,
+      "overlap_mm3": {
+        "BODY": 0.0,
+        "BOARD_SUPPORT_FRAME": 0.0,
+        "SCREW_RETAINING_RING_3POINT": 0.0,
+        "MAGSAFE_OUTER_LID": 0.0,
+        "BATTERY_TRAY_INNER": 0.0
+      }
+    },
+    {
+      "front_y": 21.8,
+      "dx": 0,
+      "dz": 0.8,
+      "overlap_mm3": {
+        "BODY": 0.0,
+        "BOARD_SUPPORT_FRAME": 0.0,
+        "SCREW_RETAINING_RING_3POINT": 0.0,
+        "MAGSAFE_OUTER_LID": 0.0,
+        "BATTERY_TRAY_INNER": 0.0
+      }
+    },
+    {
+      "front_y": 21.8,
+      "dx": 0.6,
+      "dz": -0.8,
+      "overlap_mm3": {
+        "BODY": 0.0,
+        "BOARD_SUPPORT_FRAME": 0.0,
+        "SCREW_RETAINING_RING_3POINT": 0.0,
+        "MAGSAFE_OUTER_LID": 0.0,
+        "BATTERY_TRAY_INNER": 0.0
+      }
+    },
+    {
+      "front_y": 21.8,
+      "dx": 0.6,
+      "dz": 0,
+      "overlap_mm3": {
+        "BODY": 0.0,
+        "BOARD_SUPPORT_FRAME": 0.0,
+        "SCREW_RETAINING_RING_3POINT": 0.0,
+        "MAGSAFE_OUTER_LID": 0.0,
+        "BATTERY_TRAY_INNER": 0.0
+      }
+    },
+    {
+      "front_y": 21.8,
+      "dx": 0.6,
+      "dz": 0.8,
+      "overlap_mm3": {
+        "BODY": 0.0,
+        "BOARD_SUPPORT_FRAME": 0.0,
+        "SCREW_RETAINING_RING_3POINT": 0.0,
+        "MAGSAFE_OUTER_LID": 0.0,
+        "BATTERY_TRAY_INNER": 0.0
+      }
+    },
+    {
+      "front_y": 22.3,
+      "dx": -0.6,
+      "dz": -0.8,
+      "overlap_mm3": {
+        "BODY": 0.0,
+        "BOARD_SUPPORT_FRAME": 0.0,
+        "SCREW_RETAINING_RING_3POINT": 0.0,
+        "MAGSAFE_OUTER_LID": 0.0,
+        "BATTERY_TRAY_INNER": 0.0
+      }
+    },
+    {
+      "front_y": 22.3,
+      "dx": -0.6,
+      "dz": 0,
+      "overlap_mm3": {
+        "BODY": 0.0,
+        "BOARD_SUPPORT_FRAME": 0.0,
+        "SCREW_RETAINING_RING_3POINT": 0.0,
+        "MAGSAFE_OUTER_LID": 0.0,
+        "BATTERY_TRAY_INNER": 0.0
+      }
+    },
+    {
+      "front_y": 22.3,
+      "dx": -0.6,
+      "dz": 0.8,
+      "overlap_mm3": {
+        "BODY": 0.0,
+        "BOARD_SUPPORT_FRAME": 0.0,
+        "SCREW_RETAINING_RING_3POINT": 0.0,
+        "MAGSAFE_OUTER_LID": 0.0,
+        "BATTERY_TRAY_INNER": 0.0
+      }
+    },
+    {
+      "front_y": 22.3,
+      "dx": 0,
+      "dz": -0.8,
+      "overlap_mm3": {
+        "BODY": 0.0,
+        "BOARD_SUPPORT_FRAME": 0.0,
+        "SCREW_RETAINING_RING_3POINT": 0.0,
+        "MAGSAFE_OUTER_LID": 0.0,
+        "BATTERY_TRAY_INNER": 0.0
+      }
+    },
+    {
+      "front_y": 22.3,
+      "dx": 0,
+      "dz": 0,
+      "overlap_mm3": {
+        "BODY": 0.0,
+        "BOARD_SUPPORT_FRAME": 0.0,
+        "SCREW_RETAINING_RING_3POINT": 0.0,
+        "MAGSAFE_OUTER_LID": 0.0,
+        "BATTERY_TRAY_INNER": 0.0
+      }
+    },
+    {
+      "front_y": 22.3,
+      "dx": 0,
+      "dz": 0.8,
+      "overlap_mm3": {
+        "BODY": 0.0,
+        "BOARD_SUPPORT_FRAME": 0.0,
+        "SCREW_RETAINING_RING_3POINT": 0.0,
+        "MAGSAFE_OUTER_LID": 0.0,
+        "BATTERY_TRAY_INNER": 0.0
+      }
+    },
+    {
+      "front_y": 22.3,
+      "dx": 0.6,
+      "dz": -0.8,
+      "overlap_mm3": {
+        "BODY": 0.0,
+        "BOARD_SUPPORT_FRAME": 0.0,
+        "SCREW_RETAINING_RING_3POINT": 0.0,
+        "MAGSAFE_OUTER_LID": 0.0,
+        "BATTERY_TRAY_INNER": 0.0
+      }
+    },
+    {
+      "front_y": 22.3,
+      "dx": 0.6,
+      "dz": 0,
+      "overlap_mm3": {
+        "BODY": 0.0,
+        "BOARD_SUPPORT_FRAME": 0.0,
+        "SCREW_RETAINING_RING_3POINT": 0.0,
+        "MAGSAFE_OUTER_LID": 0.0,
+        "BATTERY_TRAY_INNER": 0.0
+      }
+    },
+    {
+      "front_y": 22.3,
+      "dx": 0.6,
+      "dz": 0.8,
+      "overlap_mm3": {
+        "BODY": 0.0,
+        "BOARD_SUPPORT_FRAME": 0.0,
+        "SCREW_RETAINING_RING_3POINT": 0.0,
+        "MAGSAFE_OUTER_LID": 0.0,
+        "BATTERY_TRAY_INNER": 0.0
+      }
+    },
+    {
+      "front_y": 23.0,
+      "dx": -0.6,
+      "dz": -0.8,
+      "overlap_mm3": {
+        "BODY": 0.0,
+        "BOARD_SUPPORT_FRAME": 0.0,
+        "SCREW_RETAINING_RING_3POINT": 0.0,
+        "MAGSAFE_OUTER_LID": 0.0,
+        "BATTERY_TRAY_INNER": 0.0
+      }
+    },
+    {
+      "front_y": 23.0,
+      "dx": -0.6,
+      "dz": 0,
+      "overlap_mm3": {
+        "BODY": 0.0,
+        "BOARD_SUPPORT_FRAME": 0.0,
+        "SCREW_RETAINING_RING_3POINT": 0.0,
+        "MAGSAFE_OUTER_LID": 0.0,
+        "BATTERY_TRAY_INNER": 0.0
+      }
+    },
+    {
+      "front_y": 23.0,
+      "dx": -0.6,
+      "dz": 0.8,
+      "overlap_mm3": {
+        "BODY": 0.0,
+        "BOARD_SUPPORT_FRAME": 0.0,
+        "SCREW_RETAINING_RING_3POINT": 0.0,
+        "MAGSAFE_OUTER_LID": 0.0,
+        "BATTERY_TRAY_INNER": 0.0
+      }
+    },
+    {
+      "front_y": 23.0,
+      "dx": 0,
+      "dz": -0.8,
+      "overlap_mm3": {
+        "BODY": 0.0,
+        "BOARD_SUPPORT_FRAME": 0.0,
+        "SCREW_RETAINING_RING_3POINT": 0.0,
+        "MAGSAFE_OUTER_LID": 0.0,
+        "BATTERY_TRAY_INNER": 0.0
+      }
+    },
+    {
+      "front_y": 23.0,
+      "dx": 0,
+      "dz": 0,
+      "overlap_mm3": {
+        "BODY": 0.0,
+        "BOARD_SUPPORT_FRAME": 0.0,
+        "SCREW_RETAINING_RING_3POINT": 0.0,
+        "MAGSAFE_OUTER_LID": 0.0,
+        "BATTERY_TRAY_INNER": 0.0
+      }
+    },
+    {
+      "front_y": 23.0,
+      "dx": 0,
+      "dz": 0.8,
+      "overlap_mm3": {
+        "BODY": 0.0,
+        "BOARD_SUPPORT_FRAME": 0.0,
+        "SCREW_RETAINING_RING_3POINT": 0.0,
+        "MAGSAFE_OUTER_LID": 0.0,
+        "BATTERY_TRAY_INNER": 0.0
+      }
+    },
+    {
+      "front_y": 23.0,
+      "dx": 0.6,
+      "dz": -0.8,
+      "overlap_mm3": {
+        "BODY": 0.0,
+        "BOARD_SUPPORT_FRAME": 0.0,
+        "SCREW_RETAINING_RING_3POINT": 0.0,
+        "MAGSAFE_OUTER_LID": 0.0,
+        "BATTERY_TRAY_INNER": 0.0
+      }
+    },
+    {
+      "front_y": 23.0,
+      "dx": 0.6,
+      "dz": 0,
+      "overlap_mm3": {
+        "BODY": 0.0,
+        "BOARD_SUPPORT_FRAME": 0.0,
+        "SCREW_RETAINING_RING_3POINT": 0.0,
+        "MAGSAFE_OUTER_LID": 0.0,
+        "BATTERY_TRAY_INNER": 0.0
+      }
+    },
+    {
+      "front_y": 23.0,
+      "dx": 0.6,
+      "dz": 0.8,
+      "overlap_mm3": {
+        "BODY": 0.0,
+        "BOARD_SUPPORT_FRAME": 0.0,
+        "SCREW_RETAINING_RING_3POINT": 0.0,
+        "MAGSAFE_OUTER_LID": 0.0,
+        "BATTERY_TRAY_INNER": 0.0
+      }
+    }
+  ],
+  "pcb_body_overlap_mm3": 0.0,
+  "usb_shell_body_overlap_mm3": 0.0,
+  "pcb_direct_sight_test": {
+    "rays_outside_socket_window": 22,
+    "blocked_by_shield": 22
+  },
+  "ring_and_tool_motion": [
+    {
+      "angle": -720,
+      "SCREW_RETAINING_RING_3POINT": 0.0,
+      "RING_TOOL_3POINT": 0.0
+    },
+    {
+      "angle": -540,
+      "SCREW_RETAINING_RING_3POINT": 0.0,
+      "RING_TOOL_3POINT": 0.0
+    },
+    {
+      "angle": -360,
+      "SCREW_RETAINING_RING_3POINT": 0.0,
+      "RING_TOOL_3POINT": 0.0
+    },
+    {
+      "angle": -270,
+      "SCREW_RETAINING_RING_3POINT": 0.0,
+      "RING_TOOL_3POINT": 0.0
+    },
+    {
+      "angle": -180,
+      "SCREW_RETAINING_RING_3POINT": 0.0,
+      "RING_TOOL_3POINT": 0.0
+    },
+    {
+      "angle": -90,
+      "SCREW_RETAINING_RING_3POINT": 0.0,
+      "RING_TOOL_3POINT": 0.0
+    },
+    {
+      "angle": -45,
+      "SCREW_RETAINING_RING_3POINT": 0.0,
+      "RING_TOOL_3POINT": 0.0
+    },
+    {
+      "angle": 0,
+      "SCREW_RETAINING_RING_3POINT": 0.0,
+      "RING_TOOL_3POINT": 0.0
+    },
+    {
+      "angle": 11.25,
+      "SCREW_RETAINING_RING_3POINT": 0.0,
+      "RING_TOOL_3POINT": 0.0
+    }
+  ],
+  "inner_tray_lock_motion": [
+    {
+      "angle": 10,
+      "overlap_mm3": 0.0
+    },
+    {
+      "angle": 8,
+      "overlap_mm3": 0.0
+    },
+    {
+      "angle": 6,
+      "overlap_mm3": 0.0
+    },
+    {
+      "angle": 4,
+      "overlap_mm3": 0.0
+    },
+    {
+      "angle": 2,
+      "overlap_mm3": 0.0
+    },
+    {
+      "angle": 0,
+      "overlap_mm3": 0.0
+    }
+  ],
+  "cap_rotation_motion": [
+    {
+      "angle": -20,
+      "outer": 0.0,
+      "tray": 0.0,
+      "battery": 0.0,
+      "magnet": 0.0
+    },
+    {
+      "angle": -17.5,
+      "outer": 0.0,
+      "tray": 0.0,
+      "battery": 0.0,
+      "magnet": 0.0
+    },
+    {
+      "angle": -15,
+      "outer": 0.0,
+      "tray": 0.0,
+      "battery": 0.0,
+      "magnet": 0.0
+    },
+    {
+      "angle": -12.5,
+      "outer": 0.0,
+      "tray": 0.0,
+      "battery": 0.0,
+      "magnet": 0.0
+    },
+    {
+      "angle": -10,
+      "outer": 0.0,
+      "tray": 0.0,
+      "battery": 0.0,
+      "magnet": 0.0
+    },
+    {
+      "angle": -7.5,
+      "outer": 0.0,
+      "tray": 0.0,
+      "battery": 0.0,
+      "magnet": 0.0
+    },
+    {
+      "angle": -5,
+      "outer": 0.0,
+      "tray": 0.0,
+      "battery": 0.0,
+      "magnet": 0.0
+    },
+    {
+      "angle": -2.5,
+      "outer": 0.0,
+      "tray": 0.0,
+      "battery": 0.0,
+      "magnet": 0.0
+    },
+    {
+      "angle": 0,
+      "outer": 0.0,
+      "tray": 0.0,
+      "battery": 0.0,
+      "magnet": 0.0
+    }
+  ],
+  "battery_overtravel_0_4mm_collision_mm3": 4.415419916875487,
+  "battery_lateral_capture": [
+    {
+      "axis": "x",
+      "sign": -1,
+      "overtravel_0_45mm_capture_mm3": 2.382856028285261
+    },
+    {
+      "axis": "x",
+      "sign": 1,
+      "overtravel_0_45mm_capture_mm3": 2.382856028285262
+    },
+    {
+      "axis": "y",
+      "sign": -1,
+      "overtravel_0_45mm_capture_mm3": 2.3828560282854037
+    },
+    {
+      "axis": "y",
+      "sign": 1,
+      "overtravel_0_45mm_capture_mm3": 2.3828560282854037
+    }
+  ],
+  "screen_preserved_diff_mm3": 0.0,
+  "rear_bayonet_preserved_diff_mm3": 0.0
+}

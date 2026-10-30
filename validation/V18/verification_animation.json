@@ -1,0 +1,56 @@
+{
+  "native_frame_count": 157,
+  "gif_frame_count": 157,
+  "gif_duration_ms": 36200,
+  "video_frame_count": 724,
+  "video_duration_seconds": 36.2,
+  "video_size": [
+    1000,
+    1000
+  ],
+  "video_full_decode_return_code": 0,
+  "inner_tray_lock_view": "clockwise 10 degrees when looking into the lid from +Z",
+  "inner_tray_model_angle_degrees": [
+    10,
+    0
+  ],
+  "main_cap_lock_view": "clockwise 20 degrees when looking at the device rear from -Z",
+  "main_cap_model_angle_degrees": [
+    -20,
+    0
+  ],
+  "board_and_socket_are_explanatory_envelopes": true,
+  "sticker_attachment_is_to_tray_underside": true,
+  "connector_connection_is_labelled_but_not_mechanically_animated": true,
+  "production_cad_and_print_meshes_modified": false,
+  "crop_bounds_per_chapter": {
+    "board": [
+      251,
+      51,
+      750,
+      704
+    ],
+    "cap": [
+      235,
+      138,
+      772,
+      654
+    ],
+    "closure": [
+      268,
+      98,
+      727,
+      653
+    ]
+  },
+  "files": {
+    "V18_조립순서.gif": {
+      "bytes": 12687819,
+      "sha256": "46f5f9b91730e0f465fe027c61ddf5b6839a13c811100b7debb95c9f46d79a19"
+    },
+    "V18_조립순서.mp4": {
+      "bytes": 1386296,
+      "sha256": "bdaeb0192a0c40e9bf4f7703448c6e9875c6808ab03568de8004050105c7c960"
+    }
+  }
+}

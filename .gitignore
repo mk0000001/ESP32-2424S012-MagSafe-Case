@@ -1,0 +1,7 @@
+build/
+vendor-original/
+releases/
+__pycache__/
+*.pyc
+*.FCBak
+*.FCStd1

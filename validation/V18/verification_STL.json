@@ -1,0 +1,116 @@
+{
+  "BODY": {
+    "watertight": true,
+    "winding_consistent": true,
+    "positive_volume": true,
+    "components": 1,
+    "bounds_mm": [
+      [
+        -32.65177536010742,
+        -32.650264739990234,
+        0.0
+      ],
+      [
+        32.65177536010742,
+        32.65129470825195,
+        26.846561431884766
+      ]
+    ],
+    "facets": 25658
+  },
+  "BOARD_SUPPORT_FRAME": {
+    "watertight": true,
+    "winding_consistent": true,
+    "positive_volume": true,
+    "components": 1,
+    "bounds_mm": [
+      [
+        -23.5,
+        -19.250072479248047,
+        0.0
+      ],
+      [
+        23.5,
+        23.5,
+        6.079333305358887
+      ]
+    ],
+    "facets": 2690
+  },
+  "SCREW_RETAINING_RING_3POINT": {
+    "watertight": true,
+    "winding_consistent": true,
+    "positive_volume": true,
+    "components": 1,
+    "bounds_mm": [
+      [
+        -25.0,
+        -24.999990463256836,
+        0.0
+      ],
+      [
+        24.999988555908203,
+        25.0,
+        4.199999809265137
+      ]
+    ],
+    "facets": 7408
+  },
+  "MAGSAFE_OUTER_LID": {
+    "watertight": true,
+    "winding_consistent": true,
+    "positive_volume": true,
+    "components": 1,
+    "bounds_mm": [
+      [
+        -30.149999618530273,
+        -30.149999618530273,
+        0.0
+      ],
+      [
+        31.0,
+        30.149999618530273,
+        4.267229080200195
+      ]
+    ],
+    "facets": 44014
+  },
+  "BATTERY_TRAY_INNER": {
+    "watertight": true,
+    "winding_consistent": true,
+    "positive_volume": true,
+    "components": 1,
+    "bounds_mm": [
+      [
+        -28.399999618530273,
+        -28.399375915527344,
+        0.0
+      ],
+      [
+        28.399999618530273,
+        28.399375915527344,
+        5.09999942779541
+      ]
+    ],
+    "facets": 17778
+  },
+  "RING_TOOL_3POINT": {
+    "watertight": true,
+    "winding_consistent": true,
+    "positive_volume": true,
+    "components": 1,
+    "bounds_mm": [
+      [
+        -30.0,
+        -23.997507095336914,
+        0.0
+      ],
+      [
+        30.0,
+        23.997507095336914,
+        25.5
+      ]
+    ],
+    "facets": 5686
+  }
+}

@@ -1,0 +1,134 @@
+{
+  "version": 18,
+  "date": "2026-10-30",
+  "timezone": "Asia/Seoul",
+  "hardware": [
+    {
+      "id": "HW-01",
+      "name": "ESP32-2424S012",
+      "quantity": 1,
+      "pcb_markings": [
+        "HW-791",
+        "ESP32-2424S012",
+        "V0.0.1"
+      ],
+      "mcu": "ESP32-C3-MINI-1U",
+      "display": {
+        "inches": 1.28,
+        "pixels": [
+          240,
+          240
+        ],
+        "driver": "GC9A01"
+      },
+      "touch": "capacitive per user-provided product title; full PCB variant suffix not confirmed",
+      "evidence": [
+        "user PCB photo",
+        "supplied manufacturer ZIP"
+      ]
+    },
+    {
+      "id": "HW-02",
+      "name": "YCJ 603048",
+      "quantity": 1,
+      "nominal_voltage_V": 3.7,
+      "label_capacity_mAh": 880,
+      "cad_user_measured_mm": [
+        50,
+        30,
+        5
+      ],
+      "supplier_candidate": "Coms UB917",
+      "supplier_size_mm": [
+        50,
+        30,
+        6
+      ],
+      "supplier_sku_confirmed_from_order": false,
+      "connector": "white 2-pin; exact pitch/series/polarity not measured"
+    },
+    {
+      "id": "HW-03",
+      "name": "MagSafe magnetic ring sticker",
+      "quantity": 1,
+      "dimensions_provisional": true,
+      "nominal_OD_ID_thickness_mm": [
+        56,
+        46,
+        0.55
+      ],
+      "pocket_OD_ID_depth_mm": [
+        57.2,
+        44,
+        0.66722764149308
+      ]
+    },
+    {
+      "id": "HW-04",
+      "name": "USB-C charging cable",
+      "quantity": 1,
+      "use": "external accessory",
+      "model_not_supplied": true,
+      "tested_head_mm": [
+        15,
+        8
+      ]
+    },
+    {
+      "id": "HW-05",
+      "name": "Magnet sticker adhesive",
+      "quantity": "included with sticker",
+      "extra_tape_allowance": false
+    }
+  ],
+  "printed_parts": [
+    {
+      "name": "BODY",
+      "file": "print/V18/BODY_V18_PRINT.stl",
+      "quantity": 1,
+      "is_installed_part": true,
+      "v17_reusable": false
+    },
+    {
+      "name": "BOARD_SUPPORT_FRAME",
+      "file": "print/V18/BOARD_SUPPORT_FRAME_V18_PRINT.stl",
+      "quantity": 1,
+      "is_installed_part": true,
+      "v17_reusable": true
+    },
+    {
+      "name": "SCREW_RETAINING_RING_3POINT",
+      "file": "print/V18/SCREW_RETAINING_RING_3POINT_V18_PRINT.stl",
+      "quantity": 1,
+      "is_installed_part": true,
+      "v17_reusable": true
+    },
+    {
+      "name": "MAGSAFE_OUTER_LID",
+      "file": "print/V18/MAGSAFE_OUTER_LID_V18_PRINT.stl",
+      "quantity": 1,
+      "is_installed_part": true,
+      "v17_reusable": true
+    },
+    {
+      "name": "BATTERY_TRAY_INNER",
+      "file": "print/V18/BATTERY_TRAY_INNER_V18_PRINT.stl",
+      "quantity": 1,
+      "is_installed_part": true,
+      "v17_reusable": false
+    },
+    {
+      "name": "RING_TOOL_3POINT",
+      "file": "print/V18/RING_TOOL_3POINT_V18_PRINT.stl",
+      "quantity": 1,
+      "is_installed_part": false,
+      "v17_reusable": true
+    }
+  ],
+  "additional_metal_fasteners": [],
+  "battery_clearance_mm": {
+    "vertical": 0.3,
+    "lateral_each_side": 0.3
+  },
+  "antenna_included_or_installed": "not confirmed from supplied photos"
+}
