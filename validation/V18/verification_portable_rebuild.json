@@ -1,0 +1,42 @@
+{
+  "parts": {
+    "BODY": {
+      "cad_symmetric_difference_mm3": 0.0,
+      "cad_valid": true,
+      "solids": 1,
+      "print_mesh_byte_identical": false
+    },
+    "BOARD_SUPPORT_FRAME": {
+      "cad_symmetric_difference_mm3": 0.0,
+      "cad_valid": true,
+      "solids": 1,
+      "print_mesh_byte_identical": true
+    },
+    "SCREW_RETAINING_RING_3POINT": {
+      "cad_symmetric_difference_mm3": 0.0,
+      "cad_valid": true,
+      "solids": 1,
+      "print_mesh_byte_identical": true
+    },
+    "MAGSAFE_OUTER_LID": {
+      "cad_symmetric_difference_mm3": 0.0,
+      "cad_valid": true,
+      "solids": 1,
+      "print_mesh_byte_identical": true
+    },
+    "BATTERY_TRAY_INNER": {
+      "cad_symmetric_difference_mm3": 0.0,
+      "cad_valid": true,
+      "solids": 1,
+      "print_mesh_byte_identical": true
+    },
+    "RING_TOOL_3POINT": {
+      "cad_symmetric_difference_mm3": 0.0,
+      "cad_valid": true,
+      "solids": 1,
+      "print_mesh_byte_identical": true
+    }
+  },
+  "all_CAD_geometry_equal": true,
+  "note": "Equivalent OCCT BREP regeneration may reorder tessellation triangles; compare CAD geometry independently of STL byte identity."
+}
