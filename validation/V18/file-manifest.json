@@ -37,9 +37,9 @@
       "git_blob_sha1": "844591c6a84f590ce331df3fed7e686cbe93c553"
     },
     "cad/V17/brep/README.md": {
-      "bytes": 104,
-      "sha256": "e46f66be955b02406f847f59a4164b2101cbd63da05b5be212f13a27dbb6e1b9",
-      "git_blob_sha1": "92b8b01df610a9567d1023f18c50baa4cf87ae67"
+      "bytes": 101,
+      "sha256": "43628156d71123d51230d04d673b5613e4372c5911bf8b108ceebfdef532c293",
+      "git_blob_sha1": "b70397524265ef68296dc918223b8002f5bc91c6"
     },
     "cad/V17/brep/RING_TOOL_3POINT.brep": {
       "bytes": 40750,
@@ -77,9 +77,9 @@
       "git_blob_sha1": "d25855c408e9b3dffe59596b1cfb44fdb28b0884"
     },
     "cad/V18/brep/README.md": {
-      "bytes": 94,
-      "sha256": "221886f752a4e8bfaa75c01fd7bf953319b484ae39391fc102f9d844ea131c3e",
-      "git_blob_sha1": "cafc240300d3cb2a8de5abd0225193babdd568c0"
+      "bytes": 91,
+      "sha256": "31b49284c05102af994e78620ac46a73813a7b233cfc0b73bae69b9e3ec5a28b",
+      "git_blob_sha1": "8b448e8d21ea1647d7707cddd20bbfab76e091a5"
     },
     "cad/V18/brep/RING_TOOL_3POINT.brep": {
       "bytes": 40750,
@@ -97,9 +97,9 @@
       "git_blob_sha1": "668ac90642ca8d9d91d5da9ebeb17bd254851863"
     },
     "cad/V18/README.md": {
-      "bytes": 91,
-      "sha256": "660c13f1c6526c0f94165f8b3ae5302ad7500a97a2b00cd12b902d0de26df018",
-      "git_blob_sha1": "6beb8264c5bbcd17fc8f8845a63e0563a4b55a4a"
+      "bytes": 88,
+      "sha256": "c0e47c153d3063c1ff9432303c2cae6504510f3ed1aee9ea89f85537a06ab12f",
+      "git_blob_sha1": "2230138070a375c0ca44f14c970db570581bc2be"
     },
     "CHANGELOG.md": {
       "bytes": 819,
@@ -137,9 +137,9 @@
       "git_blob_sha1": "badcaeed35524e3fe0d8d6580fd957cbafab0609"
     },
     "hardware/battery/photos/README.md": {
-      "bytes": 129,
-      "sha256": "f9e8e8975f86dfe7a11ba9cef17a800a69c3dec7c9f20a4229a656887ed0c5c0",
-      "git_blob_sha1": "97a77808107a14c27fd55ae5352e6cb64563be20"
+      "bytes": 126,
+      "sha256": "fa43a35dff68f1be9c8156234a28ba81195ce395b63438ac49073ddf45cef331",
+      "git_blob_sha1": "0db2707c6840cee95f09352c60f02503da3cb10f"
     },
     "hardware/battery/YCJ-603048.md": {
       "bytes": 2325,
@@ -147,9 +147,9 @@
       "git_blob_sha1": "806a08437698c94da6e8efadc2295adfaaa7611b"
     },
     "hardware/BOM.json": {
-      "bytes": 3262,
-      "sha256": "8e05c67d9e2bfe44312152155c9f095d6dc1f1a0fd5e4d3756b10654ac16e93a",
-      "git_blob_sha1": "097f8a9c982a48b45981e0cb321a4d84d9282607"
+      "bytes": 3129,
+      "sha256": "bc1f2790c23109b700ac537f1b54c50da2bd405cb4aaec477577bd23d1939091",
+      "git_blob_sha1": "56b8c9a343ce7fc47a5ee763341c7a06fa0b4cd8"
     },
     "hardware/BOM.md": {
       "bytes": 3724,
@@ -162,9 +162,9 @@
       "git_blob_sha1": "1b3a22402a6e54d026e6c4cc797292e0ef59950b"
     },
     "hardware/ESP32-2424S012/photos/README.md": {
-      "bytes": 87,
-      "sha256": "94bb3cbc3b7b2e9f29e40bdbca35cd4109070ee2f4dfea1a8b5ddd2c22a77568",
-      "git_blob_sha1": "0d54bf29208752a2b2143f3b633ecf7c1ae83f34"
+      "bytes": 84,
+      "sha256": "574dcaea872844da4322b957126656085dbcc1c9cb2a0cacb369aabab24a2db1",
+      "git_blob_sha1": "0a7468e9c7d7612a2800421a5a5b91d32eb81ea4"
     },
     "hardware/ESP32-2424S012/README.md": {
       "bytes": 1749,
@@ -177,9 +177,9 @@
       "git_blob_sha1": "d73eba5804953d9ad4bf30c073b86504e137a2fa"
     },
     "hardware/ESP32-2424S012/vendor/2-Specification/README.md": {
-      "bytes": 144,
-      "sha256": "85edcbfc7d2ada1e8362e9a9010129e35c4c436d4114127720b0ea301f819fda",
-      "git_blob_sha1": "9a01a0ae810e7ca741370484e998728dc44edf29"
+      "bytes": 141,
+      "sha256": "76702fdfafd8f28d000b78398fe7fd954e723e5cc6c501359e3980e366ff34b3",
+      "git_blob_sha1": "34d1efe792fa9aad7a409b4292653667ed0ca101"
     },
     "hardware/ESP32-2424S012/vendor/3-Structure_Diagram/1.JPG": {
       "bytes": 185786,
@@ -192,9 +192,9 @@
       "git_blob_sha1": "bac1d259dc8d597c300bae5afe15e540d6980292"
     },
     "hardware/ESP32-2424S012/vendor/3-Structure_Diagram/README.md": {
-      "bytes": 148,
-      "sha256": "a4766ab36b9d351573bc5818c822d0ad5b3baebbad29a05760e2e7d67fba5fa2",
-      "git_blob_sha1": "ddb300121b69766b4550e710bde63a72a08e0467"
+      "bytes": 145,
+      "sha256": "bf86a891a7d4b60760b42314056c6910ced3e9aee059e8e3d6272191c675acfe",
+      "git_blob_sha1": "80c9d4b1d75c517234869000e2d47878f1bacee4"
     },
     "hardware/ESP32-2424S012/vendor/4-Driver_IC_Data_Sheet/esp32-c3-mini-1_datasheet_en.pdf": {
       "bytes": 911284,
@@ -202,9 +202,9 @@
       "git_blob_sha1": "0ff50eee25286a17956dc494c707417f4bd7bad5"
     },
     "hardware/ESP32-2424S012/vendor/4-Driver_IC_Data_Sheet/README.md": {
-      "bytes": 151,
-      "sha256": "9cc2af07ee83abe3ab4e566a57f49ca6e20ee2d34188979738f8c6555dec3b9f",
-      "git_blob_sha1": "c875c4b0094898bc8f34785e7416c6aa1205ce43"
+      "bytes": 148,
+      "sha256": "ceda724b25271ac0197b0f5430a4cd344b3ffa499f90af642265a481f52aab65",
+      "git_blob_sha1": "bcbed0d7996343bb6052a4ef4fdce9fc6dd14663"
     },
     "hardware/ESP32-2424S012/vendor/5-Schematic/ESP32-2424S012-V1.0.png": {
       "bytes": 105538,
@@ -217,9 +217,9 @@
       "git_blob_sha1": "7284162e10411458dd6f19c6e6eba2e959f0d162"
     },
     "hardware/ESP32-2424S012/vendor/5-Schematic/README.md": {
-      "bytes": 140,
-      "sha256": "9ec692b6bab0e7223c1a6d87d2f58486da440522e799e7ac0d3c2660ad277dd0",
-      "git_blob_sha1": "f18b2cf775fdc6df1d695e885ca97016cb602ad0"
+      "bytes": 137,
+      "sha256": "b3b469d5321244139af712f636c110249865326828dbd86d80190466cbe11e2a",
+      "git_blob_sha1": "118e46c890fd50a0335cd1f61efa9f7797895dbb"
     },
     "hardware/ESP32-2424S012/vendor/6-User_Manual/Getting started 1.28 Inch.pdf": {
       "bytes": 5309369,
@@ -227,14 +227,14 @@
       "git_blob_sha1": "13f874fbf9f3085e2f3dbdbbf0b0ca4a7535494a"
     },
     "hardware/ESP32-2424S012/vendor/6-User_Manual/README.md": {
-      "bytes": 142,
-      "sha256": "a9359cc687c871952fe15e100f5676bc6f6ad284f726e6233cf83b6885d9bb86",
-      "git_blob_sha1": "8d2d62a31abd4fae0a30583e0d789dd74b28f403"
+      "bytes": 139,
+      "sha256": "bafed695856abc3d3ff0676c76a510d4ec64df1c8ffa0bd7206a19463b91de41",
+      "git_blob_sha1": "340057e257c20fdccd6ec2cc6a81ec053a2c63ef"
     },
     "hardware/ESP32-2424S012/vendor-manifest.json": {
-      "bytes": 2368,
-      "sha256": "1a685d0c1ed4e598fc66b4564f52abaaf84c813899b7e5db21e566175b0ef240",
-      "git_blob_sha1": "8b71f9b760a9fc353c7e34a35059261a896680a8"
+      "bytes": 2319,
+      "sha256": "7922952e9a9cf5931c66c2ac9a42945d92b912c879be9cf8f2c56243fcde3852",
+      "git_blob_sha1": "8890cedaa9adee56fae143c239e7ea5a2db006c3"
     },
     "media/V18/assembly-summary.png": {
       "bytes": 532536,
@@ -267,9 +267,9 @@
       "git_blob_sha1": "74ca59251d3417c2263f873d93661cbb73446502"
     },
     "media/V18/README.md": {
-      "bytes": 86,
-      "sha256": "c851bca46e6e429973a2ba7ff9453d16adbe1181fc353426f5a8a3ebb2e45d11",
-      "git_blob_sha1": "0e5696df583b6f57d4ce44675261c0c85ed87b5a"
+      "bytes": 83,
+      "sha256": "ada52c651236c1fd33fc9a208c1f210b2e2dadc86b2d379e44e7b52f893efca4",
+      "git_blob_sha1": "0e6db849d8b345653fc12ac96c3fd2e701e32728"
     },
     "media/V18/usb-shield.png": {
       "bytes": 23578,
@@ -297,9 +297,9 @@
       "git_blob_sha1": "fa73ef629e0ede9d87a4c28b145133d8437f895b"
     },
     "print/V18/README.md": {
-      "bytes": 115,
-      "sha256": "05330b4ff35c6af2e44450fb446c9c0bec91bcd9bc3a82bc709a76c17159c63a",
-      "git_blob_sha1": "3b34abb2f6aca32c5547fe4cdef4ea87cc7b8941"
+      "bytes": 112,
+      "sha256": "c3773a0b05c47e7b9f7598ff2c73e29fc5e657a0c7e4efbd83be595c31b502e3",
+      "git_blob_sha1": "4f678924bf17baad1e4b8539706ed06892cfba45"
     },
     "print/V18/RING_TOOL_3POINT_V18_PRINT.stl": {
       "bytes": 284384,
@@ -317,9 +317,9 @@
       "git_blob_sha1": "387b97a453faaa9d4a19481d2c5a305df1c59e12"
     },
     "source/freecad/build_v18.py": {
-      "bytes": 9189,
-      "sha256": "27369d85aff0cc172fe745f48c361b51e68534f97c06d762a3acc6f69c11b71b",
-      "git_blob_sha1": "e3ca0db13429be6f08c7221154d744d29f22b4b8"
+      "bytes": 9025,
+      "sha256": "a5ea27bc786b38cb43a7358b7738b2006a5b636ddfa19c778cccf2dd4aea47d3",
+      "git_blob_sha1": "c5e16604d054c2d6a2b027f2eb98f7e067bf6224"
     },
     "source/README.md": {
       "bytes": 796,
@@ -327,29 +327,29 @@
       "git_blob_sha1": "66eb435169afa8e7bd6405e58ea94739474a9a78"
     },
     "source/verify_meshes.py": {
-      "bytes": 823,
-      "sha256": "ecdcd6f892a22a23749417bf4d205874f447b2ebf0720bf43aba17adb55cb2e0",
-      "git_blob_sha1": "ea934aa4a50c68185b7de6952b7c17d38db21a2a"
+      "bytes": 809,
+      "sha256": "f6c63cfd2cdc3af0cb303662aff1b169b6555787b69ecfea601629039805f95d",
+      "git_blob_sha1": "56bcd8fda860618132dbb82fcfda13e635c06819"
     },
     "validation/V18/verification_animation.json": {
-      "bytes": 1333,
-      "sha256": "b358d969a47d386d6e501483c6b139e38b72ac05cebb35dee9131e52b137bcbb",
-      "git_blob_sha1": "a849a45d5c027bbf38dc936ff53a70bfb607213a"
+      "bytes": 1278,
+      "sha256": "b760dad8096bcc71ef19e4b281dbdd52fedb74df903c1ba2604854ea50655889",
+      "git_blob_sha1": "fd3795005ce87a98680ed100f4923abf554edd8e"
     },
     "validation/V18/verification_native.json": {
-      "bytes": 13337,
-      "sha256": "edc45081b5d4c64376b42b2bbfa4d923f0528400a018fc353fdba0fa8b4b2a53",
-      "git_blob_sha1": "8b3fdb7bf8a34e3b3fc91f868020d07781e46b76"
+      "bytes": 12767,
+      "sha256": "70718c616e2fbfd5f86ff9c881be4ae26058eb04c17acf4d3d94b17d3dbff455",
+      "git_blob_sha1": "b26e7be9db7ae01b1264e18057142b1a8ffc7c73"
     },
     "validation/V18/verification_portable_rebuild.json": {
-      "bytes": 1200,
-      "sha256": "cd40d944b29ba77e95d1434ad0f7048aed14e63bb2c683fe2cc8bb2667f8d019",
-      "git_blob_sha1": "efd1773eb44616ba83c21b4fdb00f694992bce54"
+      "bytes": 1159,
+      "sha256": "1d6a8a2f76d8844de2d7bff0bb375038208b2784d378edd9e5d9c89c6b4bd8be",
+      "git_blob_sha1": "765219723a57b4a30da6cd765b376fe2849a83cc"
     },
     "validation/V18/verification_STL.json": {
-      "bytes": 2187,
-      "sha256": "1bd268e84a9582c385b1e22788e5afce665c01fd44f258f158ca0aece54929f9",
-      "git_blob_sha1": "b4c0c30113062cbc62b37d410b8995b66c9bc073"
+      "bytes": 2072,
+      "sha256": "0132eb68daf35993be7ce8f3f2d33882356a80b8f83df8cbd29625c228830be5",
+      "git_blob_sha1": "19f0ae297d2925f0d4d34d94f95cc13e3cde056e"
     }
   }
 }
